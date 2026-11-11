@@ -1,0 +1,13 @@
+{
+  "Character": {
+    "Name": "Louco",
+    "BodyColors": {
+      "LeftArm": "#00ff00",
+      "RightArm": "#00ff00",
+      "LeftLeg": "#000000",
+      "RightLeg": "#000000",
+      "Torso": "#000000",
+      "Head": "#00ff00"
+    }
+  }
+}
