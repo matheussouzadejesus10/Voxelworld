@@ -1,0 +1,13 @@
+{
+  "Character": {
+    "Name": "Noob",
+    "BodyColors": {
+      "LeftArm": "#ffffff",
+      "RightArm": "#ffffff",
+      "LeftLeg": "#ffffff",
+      "RightLeg": "#ffffff",
+      "Torso": "#ffffff",
+      "Head": "#ffffff"
+    }
+  }
+}
